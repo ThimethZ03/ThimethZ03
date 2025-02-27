@@ -11,7 +11,7 @@
 - ⚡ Building web apps & exploring new technologies
 
 ## 📊 GitHub Stats
-![Thimeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThimethZoysa&show_icons=true&theme=tokyonight)
+[![Thimeth's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ThimethZoysa&theme=tokyonight)](https://github.com/ThimethZoysa)
 
 ## 📫 Connect with Me
 - GitHub: [ThimethZoysa](https://github.com/ThimethZoysa)
