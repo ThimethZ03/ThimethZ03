@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="right" alt="coding" width="900" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRahulhanje&psig=AOvVaw1lGYtxtDRImMJ2vM15uR9C&ust=1740700668289000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjSvrvF4osDFQAAAAAdAAAAABAS">
+<img align="right" alt="coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRahulhanje&psig=AOvVaw1lGYtxtDRImMJ2vM15uR9C&ust=1740700668289000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjSvrvF4osDFQAAAAAdAAAAABAS">
 <!--
 **ThimethZ03/ThimethZ03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
