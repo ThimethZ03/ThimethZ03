@@ -4,7 +4,7 @@
 ![Animated GIF](https://cdn.discordapp.com/attachments/1298291115757146152/1344461636215504906/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?ex=67c0fef8&is=67bfad78&hm=77a7fc8703145494289b334d17265f1a9e116b697ad9fd89968400ccf8dde67b&)
 
 ## 🚀 About Me
-🎓 Student | 💻 Developer | 🚀 Tech Enthusiast
+🎓 Undergraduate Student | 💻 Developer | 🚀 Tech Enthusiast
 
 ## 🛠 Tech Stack
 - 🌐 JavaScript | Node.js | React.js
