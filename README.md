@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thimethz03&label=Profile%20views&color=0e75b6&style=flat" alt="thimethz03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thimethz03" alt="thimethz03" /></a> </p>
-
 - 🌱 I’m currently learning **Python and Java**
 - 📫 Reach me at **thimethhansana5@gmail.com**
 
