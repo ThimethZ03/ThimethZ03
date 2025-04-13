@@ -9,7 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thimethz03&label=Profile%20views&color=0e75b6&style=flat" alt="thimethz03" /> </p>
 
-- 🌱 I’m currently learning **Python and Java**
 - 📫 Reach me at **thimethhansana5@gmail.com**
 
 ## 🌐 Connect with me
@@ -42,7 +41,7 @@
 **ThimethZ03/ThimethZ03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning **Python and Java**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
