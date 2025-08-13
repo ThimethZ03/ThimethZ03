@@ -7,6 +7,15 @@
 
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+<h3> Here's some fun facts about me: </h3>
+
+- **I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
+-  **I'm a hopeful web and app developer 👩🏻‍💻**
+-  **I am a true science lover 🔬**
+-  **Finally, I'm a football-watching frenzy ⚽!**
+-  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/)**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thimethz03&label=Profile%20views&color=0e75b6&style=flat" alt="thimethz03" /> </p>
 
 - 📫 Reach me at **thimethhansana5@gmail.com**
