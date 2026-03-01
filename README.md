@@ -23,7 +23,7 @@ name: Thimeth Zoysa
 location: Sri Lanka 🇱🇰
 education: Undergraduate Student
 role: Developer & Tech Enthusiast
-currently_learning: [Python, Java]
+currently_learning: [Flutter, ML]
 interests:
   - Full Stack Web Development
   - Open Source Contribution
