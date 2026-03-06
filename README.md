@@ -31,7 +31,7 @@ interests:
 contact: thimethhansana5@gmail.com
 ```
 
----
+***
 
 ## 🌐 Connect With Me
 
@@ -47,38 +47,15 @@ contact: thimethhansana5@gmail.com
   </a>
 </div>
 
----
+***
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,python,cpp,mongodb,mysql,git,github,vscode,idea,postman,linux" />
 </div>
 
-### 📱 Mobile
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
-
-### ⚙️ Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp" />
-</div>
-
-### 🗄️ Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</div>
-
-### 🔧 Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux" />
-</div>
-
----
+***
 
 ## 🚀 What I'm Working On
 
@@ -87,7 +64,7 @@ contact: thimethhansana5@gmail.com
 - 📚 Learning **Python** and **Java** for uni + projects
 - 🧠 Exploring clean architecture, APIs, and better UI/UX
 
----
+***
 
 ## 📊 GitHub Stats
 
@@ -104,7 +81,7 @@ contact: thimethhansana5@gmail.com
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thimethz03&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
----
+***
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
